@@ -10,6 +10,7 @@ Ejercicio único
 * Añadir un método llamado **vector**, que tome otro punto y calcule el vector resultante entre los dos puntos.
 (Optativo) Añadir un método llamado **distancia**, que tome otro punto y calcule la distancia entre los dos puntos y la muestre por pantalla. La fórmula es la siguiente:
 <br>
+
 ![Fórmula distancia entre dos puntos](https://docs.hektorprofe.net/cdn/ejemplos_edv/python/distancia.png)
 
 Nota:
