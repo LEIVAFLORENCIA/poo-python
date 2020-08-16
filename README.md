@@ -9,12 +9,13 @@ Ejercicio único
 * Añadir un método llamado **cuadrante** que indique a qué cuadrante pertenece el punto, teniendo en cuenta que si X == 0 e Y != 0 se sitúa sobre el eje Y, si X != 0 e Y == 0 se sitúa sobre el eje X y si X == 0 e Y == 0 está sobre el origen.
 * Añadir un método llamado **vector**, que tome otro punto y calcule el vector resultante entre los dos puntos.
 (Optativo) Añadir un método llamado **distancia**, que tome otro punto y calcule la distancia entre los dos puntos y la muestre por pantalla. La fórmula es la siguiente:
+<br>
 ![Fórmula distancia entre dos puntos](https://docs.hektorprofe.net/cdn/ejemplos_edv/python/distancia.png)
 
 Nota:
 La función raíz cuadrada en Python sqrt() se debe importar del módulo math y utilizarla de la siguiente forma:
-
-import math
+<br>
+import math<br>
 math.sqrt(9)
  
 
@@ -25,7 +26,7 @@ math.sqrt(9)
 * Añadir al rectángulo un método llamado area que muestre el area.
 
 *Sugerencia:
-Pueden identificar fácilmente estos valores si intentan dibujar el cuadrado a partir de su diagonal. Recuerden que pueden utilizar la función **abs()** para saber el valor absoluto de un número.
+Pueden identificar fácilmente estos valores si intentan dibujar el cuadrado a partir de su diagonal. Recuerden que pueden utilizar la función **abs()** para saber el valor absoluto de un número.*
 
 Experimentación
 * Crear los puntos A(2, 3), B(5,5), C(-3, -1) y D(0,0) e imprimelos por pantalla.
