@@ -2,7 +2,7 @@
 """
 Created on Sun Aug 16 19:00:05 2020
 
-@author: leiva
+@author: Florencia Leiva
 """
 import math
 
